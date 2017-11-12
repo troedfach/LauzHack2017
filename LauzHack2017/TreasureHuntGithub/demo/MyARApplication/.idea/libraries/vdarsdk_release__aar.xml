@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="vdarsdk-release:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/vdarsdk-release.aar/2f7d7bf43f05d0e3958247bcbe239f89/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/vdarsdk-release.aar/2f7d7bf43f05d0e3958247bcbe239f89/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
